@@ -1,0 +1,1452 @@
+SG GUITAR==============================================================================================================================================================
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style3.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Oswald:700|PT+Sans&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://github.com/necolas/normalize.css/blob/master/normalize.css"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+    <title>Gabans</title>
+  </head>
+
+  <!-- Menu bar -->
+  <div class="logo">
+    <a href="./home.html"><img src="./Logo.jpg" /></a>
+  </div>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="./page2.html">About us</a></li>
+        <li><a href="./Order.html">Order</a></li>
+        <li><a href="./Order.html">Contact us</a></li>
+        <li><a href="./Guitarss.html">Guitars</a></li>
+        <li><a href="./home.html">Home</a></li>
+      </ul>
+    </nav>
+
+    <p class="SGG"><b>Gaban's SGG' 22 Ghanami style</b></p>
+
+    <div class="SG">
+      <img src="./SG.jpg" />
+    </div>
+
+    <p id="price"><b>18,199 AED</b></p>
+    <p id="Price"><b>$4,954.67 USD</b></p>
+    <p id="shippingfee"><b>275 AED Shipping Fee</b></p>
+
+    <div id="box">
+      Since we ship from Japan, there will be additional costs through tax and
+      customs.
+    </div>
+
+    <div id="Basket">
+      <input type="button" class="basket" value="Add to basket" />
+    </div>
+
+    <div id="instock">In Stock (6 left!!)</div>
+
+    <h1>Electric Guitar</h1>
+
+    <ul id="propa">
+      <li id="proper">SGG Custom</li>
+      <li id="proper">Body: Mahogany</li>
+      <li id="proper">Neck: Mahogany</li>
+      <li id="proper">Mother-of-pearl block inlays</li>
+      <li id="proper">Split diamond headstock inlay</li>
+      <li id="proper">5-Ply binding</li>
+      <li id="proper">Pickups: 3 x Custom humbucker position</li>
+      <li id="proper">Maestro tremolo</li>
+      <li id="proper">Gold hardware</li>
+      <li id="proper">Colour: Classic White</li>
+      <li id="proper">Includes: Case, Amplifier, Chord, Strap, Pick</li>
+      <li id="proper">Made from: Japan</li>
+      <li id="proper">Frets: 22</li>
+      <li id="proper">Item number: 452431</li>
+      <li id="proper">Available since: December 24, 2020</li>
+    </ul>
+
+    <h3>Reviews 5</h3>
+
+    <h4>JoyeDlab, February 3, 2021, 18:32</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <p id="rvw">
+      AMAZING GUITAR! Would highly recommend to get this one! I had a fun time
+      playing with this guitar with my band mates. And when it shined in the
+      spot light, the whole crowd couldn't believe how beautiful it looked!
+    </p>
+
+    <h4 class="MOREwords">H-Fit_kiras_Ukss, December 31, 2020 14:40</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <p id="rvw">
+      When I saw this on sale, I had to order this for my husband! He is an
+      amazing guitar player and jams with his mates almost everyday. Then
+      playing amazing songs for me. This guitar has an AWESOME warm tone. I
+      would recommend this guitar to anyone who is experienced. Very beautiful!
+    </p>
+
+    <h4 class="Coolwords">ER.inis.G3E, March 23, 2021 16:04</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <p id="rvw">
+      lol i saw someone play this guitar on stage and called him tryhard which
+      he obviously is lol and he is complaning that im loud
+    </p>
+
+    <p id="replied"><b>Lonce_the_nonce, April 15, 2021, 10:13</b></p>
+    <p id="rvvw">
+      Yeah, that was me playing. And whatever your complaning about, I missed
+      the part where that's my problem.
+    </p>
+
+    <h4>oLa_Man_noRacks, August 1st, 2021 17:51</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <p id="rvw">
+      I got this guitar for my son! He is an amazing player but he cannot
+      maintain the vire... I wish he knew how to handle that..
+    </p>
+
+    <footer class="footer" style="padding: 32px">
+      <p id="MBG">Made by Gabans</p>
+      <p id="Priv">Privacy Policy</p>
+      <p id="TOU">Terms of Use</p>
+      <p id="SCT">Supply Chain Transparency</p>
+      <p id="COPY">Copyright @2022 Gaban's Guitars. All Rights Reserved</p>
+    </footer>
+  </body>
+</html>
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  background-color: rgb(243, 243, 243);
+  top: 0;
+}
+
+li {
+  width: auto;
+  float: right;
+  top: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+li a,
+.dropbtn {
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  text-align: right;
+  padding: 20px 23px;
+  text-decoration: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 120%;
+}
+li a:hover,
+.dropdown:hover .dropbtn {
+  background-color: rgb(243, 243, 243);
+}
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(243, 243, 243);
+  min-width: 90px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.dropdown-content a {
+  color: rgb(0, 0, 0);
+  padding: 18px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+.dropdown-content a:hover {
+  background-color: #b9b9b9;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.logo img {
+  width: 122px;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.SG {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.SGG {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: 220px;
+  margin-top: 400px;
+}
+
+#proper {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 20px;
+}
+
+#propa {
+  background-color: white;
+  margin-left: 250px;
+}
+
+.footer {
+  margin-top: 200px;
+  padding: 3px;
+  background-color: rgb(243, 243, 243);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#price {
+  margin-left: 1300px;
+  margin-top: -500px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+#Price {
+  margin-left: 1300px;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#shippingfee {
+  margin-left: 1300px;
+  margin-top: -20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#box {
+  background-color: rgb(243, 243, 243);
+  padding: 50px;
+  border: 20px black;
+  border-radius: 30px;
+  margin-left: 1300px;
+  width: 300px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvw {
+  margin-left: 180px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h3 {
+  margin-left: 200px;
+  margin-top: 90px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 30px;
+}
+
+h4 {
+  margin-left: 170px;
+  margin-top: 60px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#replied {
+  margin-left: 210px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvvw {
+  margin-left: 210px;
+  margin-top: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.basket {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  height: 5vh;
+  margin-left: 1500px;
+  margin-top: 10px;
+  background-color: #000000;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: 200px;
+}
+
+.button {
+  border: none;
+  border-radius: 7px;
+  outline: none;
+  height: 40px;
+  width: 50px;
+  background: #000000;
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+.button:hover {
+  cursor: pointer;
+  background: #424242;
+}
+
+#instock {
+  margin-left: 1325px;
+  margin-top: -67px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(5, 209, 5);
+}
+
+.lespaul {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+.lespual {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.checked {
+  color: orange;
+  margin-left: 170px;
+  margin-right: -150px;
+}
+
+.fa-star {
+  margin-left: 170px;
+  margin-right: -140px;
+}
+#Priv {
+  margin-left: 200px;
+  margin-top: -40px;
+}
+
+#TOU {
+  margin-left: 400px;
+  margin-top: -38px;
+}
+
+#SCT {
+  margin-left: 600px;
+  margin-top: -37px;
+}
+
+#COPY {
+  margin-left: 870px;
+  margin-top: -36px;
+}
+
+LEGABS + CSS===========================================================================================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style3.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Oswald:700|PT+Sans&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://github.com/necolas/normalize.css/blob/master/normalize.css"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+    <title>Gabans</title>
+  </head>
+
+  <!-- Menu bar -->
+  <div class="logo">
+    <a href="./home.html"><img src="./Logo.jpg" /></a>
+  </div>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="./AboutUs.html">About us</a></li>
+        <li><a href="./Order.html">Order</a></li>
+        <li><a href="./Contactus.html">Contact us</a></li>
+        <li><a href="./Guitarss.html">Guitars</a></li>
+        <li><a href="./home.html">Home</a></li>
+      </ul>
+    </nav>
+
+    <p class="lespaul"><b>Gaban's LeGabs' 22 Mesa Biome style</b></p>
+
+    <div class="lespual">
+      <img src="./lesapual.jpg" />
+    </div>
+
+    <p id="price"><b>19,799 AED</b></p>
+    <p id="Price"><b>$5,390.27 USD</b></p>
+    <p id="shippingfee"><b>275 AED Shipping Fee</b></p>
+
+    <div id="box">
+      Since we ship from Japan, there will be additional costs through tax and
+      customs.
+    </div>
+
+    <div id="Basket">
+      <input type="button" class="basket" value="Add to basket" />
+    </div>
+
+    <div id="instock">In Stock (4 left!!)</div>
+
+    <h1>Electric Guitar</h1>
+
+    <ul id="propa">
+      <li id="proper">LeGabs</li>
+      <li id="proper">Body: Solid Mahogany</li>
+      <li id="proper">One-piece Neck: Mahogany</li>
+      <li id="proper">Top: Maple (hide glue)</li>
+      <li id="proper">Split diamond headstock inlay</li>
+      <li id="proper">Fretboard: Rosewood (hide glue)</li>
+      <li id="proper">
+        Pickups: 3 x Unpotted Custombucker AlNiCo III humbuckers
+      </li>
+      <li id="proper">Maestro tremolo</li>
+      <li id="proper">Gold hardware</li>
+      <li id="proper">Colour: Classic White</li>
+      <li id="proper">Includes: Case, Amplifier, Chord, Strap, Pick</li>
+      <li id="proper">Made from: Japan</li>
+      <li id="proper">Frets: 22 Historic medium jumbo</li>
+      <li id="proper">Item number: 524634</li>
+      <li id="proper">Available since: December 24, 2020</li>
+    </ul>
+
+    <h3>Reviews 4</h3>
+
+    <h4>Rasheed.Monkey, July 14, 2021, 11:23</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <p id="rvw">
+      I don't think anyother brand can match the tone of this guitar. It's just
+      too good. But the price is a bit too high for a guitar.
+    </p>
+
+    <h4 class="MOREwords">Jack_Hoff, September 4, 2021 20:22</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <p id="rvw">Very good guitar</p>
+
+    <h4 class="Coolwords">Garrisson_Aughhh, April 24, 2022 16:20</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <p id="rvw">
+      I ORDERED 1 MONTH AGO AND I STILL HAVE NOT RECIEVED MY GUITAR YET!!!!!!
+    </p>
+
+    <p id="replied"><b>Gabans, April 25, 2022, 10:13</b></p>
+    <p id="rvvw">
+      Hello <b>Garrisson_Aughhh!</b> Sorry to see that your guitar has not yet
+      arrived at your place. We apologise for not completing the order in time.
+      Please email us so that we can track your order @GabansGuitars@gmail.com.
+      Thank you.
+    </p>
+
+    <footer class="footer" style="padding: 32px">
+      <p id="MBG">Made by Gabans</p>
+      <p id="Priv">Privacy Policy</p>
+      <p id="TOU">Terms of Use</p>
+      <p id="SCT">Supply Chain Transparency</p>
+      <p id="COPY">Copyright @2022 Gaban's Guitars. All Rights Reserved</p>
+    </footer>
+  </body>
+</html>
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  background-color: rgb(243, 243, 243);
+  top: 0;
+}
+
+li {
+  width: auto;
+  float: right;
+  top: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+li a,
+.dropbtn {
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  text-align: right;
+  padding: 20px 23px;
+  text-decoration: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 120%;
+}
+li a:hover,
+.dropdown:hover .dropbtn {
+  background-color: rgb(243, 243, 243);
+}
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(243, 243, 243);
+  min-width: 90px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.dropdown-content a {
+  color: rgb(0, 0, 0);
+  padding: 18px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+.dropdown-content a:hover {
+  background-color: #b9b9b9;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.logo img {
+  width: 122px;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.SG {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.SGG {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: 220px;
+  margin-top: 400px;
+}
+
+#proper {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 20px;
+}
+
+#propa {
+  background-color: white;
+  margin-left: 250px;
+}
+
+.footer {
+  margin-top: 200px;
+  padding: 3px;
+  background-color: rgb(243, 243, 243);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#price {
+  margin-left: 1300px;
+  margin-top: -500px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+#Price {
+  margin-left: 1300px;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#shippingfee {
+  margin-left: 1300px;
+  margin-top: -20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#box {
+  background-color: rgb(243, 243, 243);
+  padding: 50px;
+  border: 20px black;
+  border-radius: 30px;
+  margin-left: 1300px;
+  width: 300px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvw {
+  margin-left: 180px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h3 {
+  margin-left: 200px;
+  margin-top: 90px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 30px;
+}
+
+h4 {
+  margin-left: 170px;
+  margin-top: 60px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#replied {
+  margin-left: 210px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvvw {
+  margin-left: 210px;
+  margin-top: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.basket {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  height: 5vh;
+  margin-left: 1500px;
+  margin-top: 10px;
+  background-color: #000000;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: 200px;
+}
+
+.button {
+  border: none;
+  border-radius: 7px;
+  outline: none;
+  height: 40px;
+  width: 50px;
+  background: #000000;
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+.button:hover {
+  cursor: pointer;
+  background: #424242;
+}
+
+#instock {
+  margin-left: 1325px;
+  margin-top: -67px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(5, 209, 5);
+}
+
+.lespaul {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+.lespual {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.checked {
+  color: orange;
+  margin-left: 170px;
+  margin-right: -150px;
+}
+
+.fa-star {
+  margin-left: 170px;
+  margin-right: -140px;
+}
+#Priv {
+  margin-left: 200px;
+  margin-top: -40px;
+}
+
+#TOU {
+  margin-left: 400px;
+  margin-top: -38px;
+}
+
+#SCT {
+  margin-left: 600px;
+  margin-top: -37px;
+}
+
+#COPY {
+  margin-left: 870px;
+  margin-top: -36px;
+}
+
+FLYINGV + CSS==========================================================================================================================================================
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  background-color: rgb(243, 243, 243);
+  top: 0;
+}
+
+li {
+  width: auto;
+  float: right;
+  top: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+li a,
+.dropbtn {
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  text-align: right;
+  padding: 20px 23px;
+  text-decoration: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 120%;
+}
+li a:hover,
+.dropdown:hover .dropbtn {
+  background-color: rgb(243, 243, 243);
+}
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(243, 243, 243);
+  min-width: 90px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.dropdown-content a {
+  color: rgb(0, 0, 0);
+  padding: 18px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+.dropdown-content a:hover {
+  background-color: #b9b9b9;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+h1 {
+  font-size: xx-large;
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.logo img {
+  width: 122px;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+.flyV {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.FlyV {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: 220px;
+  margin-top: 400px;
+}
+
+#proper {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 20px;
+}
+
+#propa {
+  background-color: white;
+  margin-left: 250px;
+}
+
+.footer {
+  margin-top: 200px;
+  padding: 3px;
+  background-color: rgb(243, 243, 243);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#price {
+  margin-left: 1300px;
+  margin-top: -500px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+#Price {
+  margin-left: 1300px;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#shippingfee {
+  margin-left: 1300px;
+  margin-top: -20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#box {
+  background-color: rgb(243, 243, 243);
+  padding: 50px;
+  border: 20px black;
+  border-radius: 30px;
+  margin-left: 1300px;
+  width: 300px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvw {
+  margin-left: 180px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h3 {
+  margin-left: 200px;
+  margin-top: 90px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 30px;
+}
+
+h4 {
+  margin-left: 170px;
+  margin-top: 60px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#replied {
+  margin-left: 210px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvvw {
+  margin-left: 210px;
+  margin-top: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.basket {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  height: 5vh;
+  margin-left: 1500px;
+  margin-top: 10px;
+  background-color: #000000;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: 200px;
+}
+
+.button {
+  border: none;
+  border-radius: 7px;
+  outline: none;
+  height: 40px;
+  width: 50px;
+  background: #000000;
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+.button:hover {
+  cursor: pointer;
+  background: #424242;
+}
+
+#instock {
+  margin-left: 1325px;
+  margin-top: -67px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(250, 150, 0);
+}
+
+.lespaul {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+.lespual {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.checked {
+  color: orange;
+  margin-left: 170px;
+  margin-right: -150px;
+}
+
+.fa-star {
+  margin-left: 170px;
+  margin-right: -140px;
+}
+#Priv {
+  margin-left: 200px;
+  margin-top: -40px;
+}
+
+#TOU {
+  margin-left: 400px;
+  margin-top: -38px;
+}
+
+#SCT {
+  margin-left: 600px;
+  margin-top: -37px;
+}
+
+#COPY {
+  margin-left: 870px;
+  margin-top: -36px;
+}
+
+FENDER + CSS==========================================================================================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style3.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Oswald:700|PT+Sans&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://github.com/necolas/normalize.css/blob/master/normalize.css"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+    <title>Gabans</title>
+  </head>
+  <style>
+    .Fender {
+      margin-left: 500px;
+    }
+
+    .Fenderr {
+      margin-left: 200px;
+      margin-top: 50px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      font-size: 50px;
+    }
+  </style>
+
+  <!-- Menu bar -->
+  <div class="logo">
+    <a href="./home.html"><img src="./Logo.jpg" /></a>
+  </div>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="./AboutUs.html">About us</a></li>
+        <li><a href="./Order.html">Order</a></li>
+        <li><a href="./Contactus.html">Contact us</a></li>
+        <li><a href="./Guitarss.html">Guitars</a></li>
+        <li><a href="./home.html">Home</a></li>
+      </ul>
+    </nav>
+
+    <p class="Fenderr"><b>Gaban's Gabancaster' 22 Aquamarine style</b></p>
+
+    <div class="Fender">
+      <img src="./Fender.jpg" />
+    </div>
+
+    <p id="price"><b>3,456 AED</b></p>
+    <p id="Price"><b>940.89 USD</b></p>
+    <p id="shippingfee"><b>275 AED Shipping Fee</b></p>
+
+    <div id="box">
+      Since we ship from Japan, there will be additional costs through tax and
+      customs.
+    </div>
+
+    <div id="Basket">
+      <input type="button" class="basket" value="Add to basket" />
+    </div>
+
+    <div id="instock">In Stock (10 left!!)</div>
+
+    <h1>Electric Guitar</h1>
+
+    <ul id="propa">
+      <li id="proper">Gabancaster</li>
+      <li id="proper">Body: Alder</li>
+      <li id="proper">Body: Gloss Polyester</li>
+      <li id="proper">Neck: Maple</li>
+      <li id="proper">
+        Bridge: 2-Point Synchronized Tremolo with Vintage-Style Stamped Steel
+        Saddles
+      </li>
+      <li id="proper">Control Knobs: Aged White</li>
+      <li id="proper">Fretboard: Maple</li>
+      <li id="proper">Pickups: 3x Vintage-Style 50s Single-Coil Hot Strat</li>
+      <li id="proper">Modern Fingerboard</li>
+      <li id="proper">S-1 Switch</li>
+      <li id="proper">Colour: Classic White</li>
+      <li id="proper">Includes: Case, Amplifier, Chord, Strap, Pick</li>
+      <li id="proper">Made from: Japan</li>
+      <li id="proper">Frets: 21 medium jumbo</li>
+      <li id="proper">Item number: 632716</li>
+      <li id="proper">Available since: May 29, 2022</li>
+    </ul>
+
+    <h3>Reviews 2</h3>
+
+    <h4>Fad_muricans, May 29, 2022, 17:48</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <p id="rvw">
+      This is an amazing deal for a guitar like this. The sound and the feeling
+      of the guitar is just so good! I absolutely love it!
+    </p>
+
+    <h4 class="MOREwords">JunnySens, May 30, 2022 20:22</h4>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <p id="rvw">
+      Wow, I cannot stress enough how amazing that G string felt. I'm having a
+      good time with it.
+    </p>
+
+    <footer class="footer" style="padding: 32px">
+      <p id="MBG">Made by Gabans</p>
+      <p id="Priv">Privacy Policy</p>
+      <p id="TOU">Terms of Use</p>
+      <p id="SCT">Supply Chain Transparency</p>
+      <p id="COPY">Copyright @2022 Gaban's Guitars. All Rights Reserved</p>
+    </footer>
+  </body>
+</html>
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  background-color: rgb(243, 243, 243);
+  top: 0;
+}
+
+li {
+  width: auto;
+  float: right;
+  top: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+li a,
+.dropbtn {
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  text-align: right;
+  padding: 20px 23px;
+  text-decoration: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 120%;
+}
+li a:hover,
+.dropdown:hover .dropbtn {
+  background-color: rgb(243, 243, 243);
+}
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(243, 243, 243);
+  min-width: 90px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.dropdown-content a {
+  color: rgb(0, 0, 0);
+  padding: 18px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+.dropdown-content a:hover {
+  background-color: #b9b9b9;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.logo img {
+  width: 122px;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.SG {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.SGG {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: 220px;
+  margin-top: 400px;
+}
+
+#proper {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 20px;
+}
+
+#propa {
+  background-color: white;
+  margin-left: 250px;
+}
+
+.footer {
+  margin-top: 200px;
+  padding: 3px;
+  background-color: rgb(243, 243, 243);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#price {
+  margin-left: 1300px;
+  margin-top: -500px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+#Price {
+  margin-left: 1300px;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#shippingfee {
+  margin-left: 1300px;
+  margin-top: -20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#box {
+  background-color: rgb(243, 243, 243);
+  padding: 50px;
+  border: 20px black;
+  border-radius: 30px;
+  margin-left: 1300px;
+  width: 300px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvw {
+  margin-left: 180px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h3 {
+  margin-left: 200px;
+  margin-top: 90px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 30px;
+}
+
+h4 {
+  margin-left: 170px;
+  margin-top: 60px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#replied {
+  margin-left: 210px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#rvvw {
+  margin-left: 210px;
+  margin-top: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.basket {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  height: 5vh;
+  margin-left: 1500px;
+  margin-top: 10px;
+  background-color: #000000;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: 200px;
+}
+
+.button {
+  border: none;
+  border-radius: 7px;
+  outline: none;
+  height: 40px;
+  width: 50px;
+  background: #000000;
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+.button:hover {
+  cursor: pointer;
+  background: #424242;
+}
+
+#instock {
+  margin-left: 1325px;
+  margin-top: -67px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(5, 209, 5);
+}
+
+.lespaul {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+.lespual {
+  margin-left: 500px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.checked {
+  color: orange;
+  margin-left: 170px;
+  margin-right: -150px;
+}
+
+.fa-star {
+  margin-left: 170px;
+  margin-right: -140px;
+}
+#Priv {
+  margin-left: 200px;
+  margin-top: -40px;
+}
+
+#TOU {
+  margin-left: 400px;
+  margin-top: -38px;
+}
+
+#SCT {
+  margin-left: 600px;
+  margin-top: -37px;
+}
+
+#COPY {
+  margin-left: 870px;
+  margin-top: -36px;
+}
